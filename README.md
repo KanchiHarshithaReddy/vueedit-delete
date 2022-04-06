@@ -1,0 +1,1 @@
+# vueedit-delete
